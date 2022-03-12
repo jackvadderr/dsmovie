@@ -3,7 +3,7 @@
 :root {
     --bg-gray: #ddd;
     --text-gray: #4a4a4a;
-    --color-primary: #4D41C0;
+    --color-primary: #013010;
     --white: #fff;
     --text-light-gray: #aaa;
     --star-yellow: #FFBB3A;
@@ -184,7 +184,7 @@ a, a:hover {
     align-items: center;
 }
 .dsmovie-pagination-box button img{
-    filter: brightness(0) saturate(100%) invert(26%) sepia(55%) saturate(2273%) hue-rotate(230deg) brightness(90%) contrast(101%);
+    filter: brightness(0) saturate(100%) invert(10%) sepia(69%) saturate(1670%) hue-rotate(116deg) brightness(96%) contrast(99%);
 }
 .dsmovie-pagination-box button:disabled {
     border: 1px solid var(--text-light-gray);
